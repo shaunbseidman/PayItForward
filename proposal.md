@@ -1,4 +1,4 @@
-Project Description
+#Project Description
 
 This application offers the user the ability to search local organizations in need of donated items. 
 
